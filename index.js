@@ -45,6 +45,6 @@ let loveArray = [812,350,690,927]
         
            
              
-           console.log(LoveIterator(loveArray,initloveCount ))   )
+           console.log(LoveIterator(loveArray,initloveCount ))   
  
  LoveIterator(loveArray,initloveCount)
